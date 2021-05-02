@@ -6,6 +6,6 @@ High level documentation:
 
 1. Scraping SEC EDGAR for firm annual reports
 1. Parsing 10-K/(exhibit13) documents for all human readable text
-1. Calculation of complexity for each 10-k document
+1. Calculation of complexity for each document
 
 
